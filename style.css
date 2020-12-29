@@ -11,19 +11,23 @@ body {
     height: 100%;
 }
 .design {
+    position: relative;
     height: 100%;
     color: white;
     background: linear-gradient(to bottom right, #161618, #313132);
 }
 /* menu bar */
 .menu_bar {
+    position: absolute;
+    top: 0;
+    right: 0;
     width: 590px;
-    height: 70px;
+    height: 80px;
     float: right;
 }
 .menu_item {
     display: inline-block;
-    margin: 20px 0px 20px 55px;
+    margin: 30px 0px 30px 55px;
     text-decoration: none;
     color: white;
     text-transform: capitalize;
