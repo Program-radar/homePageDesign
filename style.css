@@ -14,7 +14,7 @@ body {
     position: relative;
     height: 100%;
     color: white;
-    background: linear-gradient(to bottom right, #161618, #313132);
+    background: #161616;
 }
 /* menu bar */
 .menu_bar {
@@ -66,4 +66,29 @@ body {
     font-size: 41px;
     margin-top: 14.5px;
     text-align: center;
+}
+
+/* main content */
+.main {
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    height: 100%;
+    width: calc(100% - 120px);
+    background-image: url("images/27881082_163719291088826_1429379345335451648_n.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: contain;
+}
+.writing {
+    position: absolute;
+    top: 30%;
+    right: 12%;
+    width: 400px;
+    height: auto;
+}
+.writing h2 {
+    font-size: 72px;
+    text-transform: capitalize;
+    font-family: "Lora", serif;
 }
