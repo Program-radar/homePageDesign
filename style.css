@@ -22,7 +22,7 @@ body {
     position: absolute;
     top: 0;
     right: 0;
-    width: 590px;
+    width: 700px;
     height: 80px;
     float: right;
 }
@@ -34,6 +34,10 @@ body {
     text-transform: capitalize;
     font-size: 17px;
 }
+.menu_item:nth-child(5) {
+    margin-right: 40px;
+}
+
 .active {
     padding-bottom: 29px;
     color: #efc862;
