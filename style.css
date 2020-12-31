@@ -81,7 +81,7 @@ body {
 }
 .writing {
     position: absolute;
-    top: 25%;
+    top: 20%;
     right: 12%;
     width: 400px;
     height: auto;
@@ -92,4 +92,38 @@ body {
 }
 .writing #introduction {
     font-size: 20px;
+}
+
+/* footer */
+.footer {
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+    height: 25%;
+    background-color: rgba(87, 85, 84, 0.5);
+}
+.footer .list,
+.footer img {
+    display: inline-block;
+}
+.list {
+    position: absolute;
+    top: 20px;
+}
+.events {
+    left: 80px;
+}
+.hackthons {
+    right: 80px;
+}
+ul li {
+    margin-top: 8px;
+    margin-left: 10px;
+    list-style-type: none;
+}
+.footer img {
+    position: absolute;
+    left: 42%;
+    width: auto;
+    height: 100%;
 }
