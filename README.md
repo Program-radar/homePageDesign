@@ -1,6 +1,7 @@
-# Home Page
+#صفخه نخست
+این صفحه اصلی یک وب سایت برنامه نویسی خیالی است.
+کاملاً پاسخگو است و برای دسک تاپ ، تبلت و تلفن های همراه طراحی شده است.
+برای استفاده از آن راحت باش.
+همیشه به یاد داشته باشید که بهترین راه برای یادگیری برنامه نویسی انجام دادن است.
 
-This is Home page for Imaginary programming website.
-It's fully responsive and designed for desktops, tablets and mobile phones.
-Feel Free to use it.
-Always remember that the best way to learn programming is by doing.
+من را در اینستاگرام فالو کنید ----> instagram.com/programming_radar
